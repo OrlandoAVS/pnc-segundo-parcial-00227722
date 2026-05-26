@@ -98,7 +98,7 @@ El repositorio debe contener:
 |----------|-----------|
 | CRUD completo y funcional | 22% |
 | Reglas de negocio implementadas correctamente | 23% |
-| Uso de anotaciones, entities, DTOs y validaciones | 15% |
+| Uso de anotaciones, entity, DTOs y validaciones | 15% |
 | Estructura en capas y claridad del código | 10% |
 | Manejo de excepciones personalizado (mínimo 2) | 10% |
 | Conexión a base de datos | 5% |
